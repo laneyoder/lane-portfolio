@@ -7,9 +7,9 @@
 <h1>Lane Yoder</h1>
 
 {{content}}
-<ul>
+<ul class="graphic-design-work">
   {% for work in site.graphic-design %}
-  <li><img src="{{work.image}}"></li>
+  <li><a href="{{work.url}}"><img src="{{work.image}}"></a></li>
   {% endfor %}
 </ul>
 
