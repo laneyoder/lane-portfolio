@@ -1,8 +1,8 @@
 ---
 layout: home
 ---
-Graphic Design
+[Graphic Design](graphic-design.html)
 
-Web Design
+[Web Design](web-design.html)
 
-Photography
+[Photography](photography.html)

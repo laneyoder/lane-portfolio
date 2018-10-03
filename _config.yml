@@ -26,6 +26,10 @@ github_username:  jekyll
 collections:
     graphic-design:
       output: true
+    web-design:
+      output: true
+    photography:
+      output: true
 
 # Build settings
 markdown: kramdown

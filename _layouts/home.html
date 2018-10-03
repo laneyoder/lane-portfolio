@@ -10,7 +10,16 @@
 <ul class="graphic-design-work">
   {% for work in site.graphic-design %}
   <li><a href="{{work.url}}"><img src="{{work.image}}"></a></li>
-  
+  {% endfor %}
+</ul>
+<ul class="web-design-work">
+  {% for work in site.web-design %}
+  <li><a href="{{work.url}}"><img src="{{work.image}}"></a></li>
+  {% endfor %}
+</ul>
+<ul class="photography-work">
+  {% for work in site.photography %}
+  <li><a href="{{work.url}}"><img src="{{work.image}}"></a></li>
   {% endfor %}
 </ul>
 

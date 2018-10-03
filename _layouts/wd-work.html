@@ -1,0 +1,21 @@
+{% include header.html %}
+
+<img src="images/ink.png" class="header-image">
+
+<div class="main-content">
+<img src="images/ly.png">
+<h1>Lane Yoder</h1>
+
+{{content}}
+
+<ul class="web-design-work">
+  {% for work in site.web-design %}
+  <li><a href="{{work.url}}"><img src="{{work.image}}"></a></li>
+  {% endfor %}
+</ul>
+
+</div>
+
+<img src="images/ink2.png" class="footer-image">
+
+{% include footer.html %}
