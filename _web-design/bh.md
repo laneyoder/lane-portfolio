@@ -1,7 +1,7 @@
 ---
 layout: default
 title: B&H Photography
-image: images/b&h-1.jpg
+image: images/b&h-thumb.png
 ---
 B&H Photography
 

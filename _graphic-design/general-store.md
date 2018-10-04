@@ -1,7 +1,7 @@
 ---
 layout: default
 title: General Store
-image: images/tshirt-3.jpg
+image: images/tshirt-thumb.png
 ---
 West Liberty General Store T-Shirts
 

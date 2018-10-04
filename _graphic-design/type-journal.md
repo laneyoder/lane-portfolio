@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Type Journal
-image: images/type-journal-1.jpg
+image: images/type-journal-thumb.png
 ---
 Type Journal
 

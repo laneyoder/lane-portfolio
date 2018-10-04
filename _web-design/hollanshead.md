@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hollanshead Kinsey Insurance
-image: images/hollanshead-1.jpg
+image: images/hollanshead-thumb.png
 ---
 Hollanshead Kinsey Insurance
 

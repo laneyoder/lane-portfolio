@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oberer Homes
-image: images/oberer-5.jpg
+image: images/oberer-thumb.png
 ---
 Social Media Images for Oberer Homes
 

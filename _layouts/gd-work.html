@@ -12,9 +12,20 @@
 
 <img src="images/ink.png" class="header-image">
 
+<div class="nav">
+  <p><a href="graphic-design.html">Graphic Design</a></p>
+  <p><a href="web-design.html">Web Design</a></p>
+  <p><a href="photography.html">Photography</a></p>
+</div>
+
 <div class="main-content">
 
 {{content}}
+<ul class="graphic-design-work work">
+  {% for work in site.graphic-design %}
+  <li><a href="{{work.url}}"><img src="{{work.image}}" class="thumbnail"></a></li>
+  {% endfor %}
+</ul>
 
 </div>
 

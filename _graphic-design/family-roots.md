@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Family Roots
-image: images/family-roots-01.png
+image: images/family-roots-thumb.png
 ---
 Family Roots Logo
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: System7
-image: images/system7-1.jpg
+image: images/system7-thumb.png
 ---
 Prismacolor
 

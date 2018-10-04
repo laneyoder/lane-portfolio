@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Loco Depot
-image: images/loco-depot-01.png
+image: images/loco-depot-thumb.png
 ---
 Loco Depot Logo
 

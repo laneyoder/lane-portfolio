@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chalk Dust Type
-image: images/poster-mockup.jpg
+image: images/poster-mockup-thumb.png
 ---
 Chalk Dust Type
 

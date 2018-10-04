@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chinese Lantern Festival
-image: images/lanterns-1.jpg
+image: images/lanterns-thumb.png
 ---
 Chinese Lantern Festival
 

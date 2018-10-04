@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Task Track
-image: images/task-track-1.jpg
+image: images/task-track-thumb.png
 ---
 Task Track
 

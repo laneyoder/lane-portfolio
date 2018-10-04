@@ -1,7 +1,7 @@
 ---
 layout: default
 title: General Films
-image: images/general-films-1.jpg
+image: images/general-films-thumb.png
 ---
 General Films
 

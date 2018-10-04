@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wedding Program
-image: images/program-1.jpg
+image: images/program-thumb.png
 ---
 Wedding Program
 

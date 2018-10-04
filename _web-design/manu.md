@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Manchester United
-image: images/manu-1.png
+image: images/manu-thumb.png
 ---
 Manchester United
 

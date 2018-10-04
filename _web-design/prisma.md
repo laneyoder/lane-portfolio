@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prismacolor
-image: images/prisma-1.jpg
+image: images/prisma-thumb.png
 ---
 Prismacolor
 
