@@ -5,4 +5,4 @@ image: images/binoculars.jpg
 ---
 Binoculars
 
-![Binoculars photo 1](images/binoculars.jpg)
+![Binoculars photo 1](/images/binoculars.jpg)

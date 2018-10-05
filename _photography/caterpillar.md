@@ -5,4 +5,4 @@ image: images/caterpillar.jpg
 ---
 Caterpillar
 
-![caterpillar photo 1](images/caterpillar.jpg)
+![caterpillar photo 1](/images/caterpillar.jpg)

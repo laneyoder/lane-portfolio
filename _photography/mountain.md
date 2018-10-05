@@ -5,4 +5,4 @@ image: images/mountain.jpg
 ---
 Mountain
 
-![Mountain photo 1](images/mountain.jpg)
+![Mountain photo 1](/images/mountain.jpg)

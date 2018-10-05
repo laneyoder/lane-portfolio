@@ -5,4 +5,4 @@ image: images/bay.jpg
 ---
 Bay
 
-![Bay photo 1](images/bay.jpg)
+![Bay photo 1](/images/bay.jpg)

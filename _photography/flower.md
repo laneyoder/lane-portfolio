@@ -5,4 +5,4 @@ image: images/flower.jpg
 ---
 Flower
 
-![Flower photo 1](images/flower.jpg)
+![Flower photo 1](/images/flower.jpg)
