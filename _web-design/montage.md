@@ -3,8 +3,12 @@ layout: default
 title: Montage
 image: images/montage-phones-thumb.png
 ---
-Montage
+<div class="individual-page" markdown="1">
 
-![Montage Photo 1](/images/montage-phones.jpg)
+<h2>Montage</h2>
 
-![Montage Photo 2](/images/montage-6.jpg)
+![Montage Photo 1](/images/montage-phones.png)
+
+![Montage Photo 2](/images/montage-6.png)
+
+</div>

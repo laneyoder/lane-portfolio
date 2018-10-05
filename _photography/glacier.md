@@ -3,6 +3,10 @@ layout: default
 title: Glacier
 image: images/glacier.jpg
 ---
-Glacier
+<div class="individual-page" markdown="1">
+
+<h2>Glacier</h2>
 
 ![Glacier photo 1](/images/glacier.jpg)
+
+</div>

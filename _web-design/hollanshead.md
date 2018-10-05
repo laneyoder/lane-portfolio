@@ -3,6 +3,10 @@ layout: default
 title: Hollanshead Kinsey Insurance
 image: images/hollanshead-thumb.png
 ---
-Hollanshead Kinsey Insurance
+<div class="individual-page" markdown="1">
 
-![Hollanshead Kinsey Photo 1](/images/hollanshead-1.jpg)
+<h2>Hollanshead Kinsey Insurance</h2>
+
+![Hollanshead Kinsey Photo 1](/images/hollanshead-3.png)
+
+</div>
