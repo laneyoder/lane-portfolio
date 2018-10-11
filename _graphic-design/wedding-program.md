@@ -15,4 +15,8 @@ image: images/program-thumb.png
 
 ![Wedding Program 4](/images/program-4.jpg)
 
+<div class="work-description" markdown="1">
+With this wedding program, the client wanted a specific layout and dimensions so it would be unique. She also wanted it to be consistent with her already created invitations. I was able to take elements from her invitations and apply it to the content of the program and layout to create a unique wedding program.
+</div>
+
 </div>

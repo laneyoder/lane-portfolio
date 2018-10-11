@@ -83,15 +83,16 @@ footer {
 
 .nav {
   display: flex;
-  width:60%;
-  font-size: 1.8em;
+  width:40%;
+  font-size: 1.2em;
   font-weight: 700;
   justify-content: space-between;
   margin-left: auto;
   margin-right: auto;
   letter-spacing: $letter-spacing;
   text-transform: uppercase;
-  margin-top:50px;
+  margin-top:-30px;
+  clear: right;
   p a {
     text-decoration:none;
     color: black;
@@ -124,4 +125,15 @@ footer {
     width:400px;
     margin-top: 80px;
   }
+}
+
+.work-description {
+  font-size: 1.8em;
+  font-weight: 300;
+  letter-spacing: 2px;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:40px;
+  text-align: left;
 }

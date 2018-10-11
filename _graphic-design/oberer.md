@@ -27,4 +27,8 @@ image: images/oberer-thumb.png
 
 </div>
 
+<div class="work-description" markdown="1">
+Oberer homes is a quality home builder in Miamisburg, Ohio. I needed to create social media images for them that would help advertise new available homes and promote their brand. After creating the images the client requested, I was able to have creative freedom designing "lifestyle" images. These images were meant to convey the values the company has, and help reach the audience's emotions. I had the opportunity to make many of these lifestyle images that the company used on a regular basis.
+</div>
+
 </div>

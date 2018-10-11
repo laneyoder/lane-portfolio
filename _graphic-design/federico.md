@@ -19,4 +19,8 @@ image: images/federico-thumb.png
 
 </div>
 
+<div class="work-description" markdown="1">
+The purpose of this project was to create a piece that payed tribute to an AIGA medalist. I chose to study Gene Federico as I admire the way he treated type and created visual typography. I wanted to be able to create a piece that payed tribute to what Federico accomplished by showing his design style. I decided to use his style of visual typography by using the year he medaled and the titles he gained over the years to create a visually compelling piece.
+</div>
+
 </div>
