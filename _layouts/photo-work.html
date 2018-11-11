@@ -1,0 +1,15 @@
+{% include header.html %}
+
+<div class="main-content">
+
+  {{content}}
+
+  <ul class="photography-work work">
+    {% for work in site.photography %}
+    <li><a href="{{work.url}}"><img src="{{work.image}}"></a></li>
+    {% endfor %}
+  </ul>
+
+</div>
+
+{% include footer.html %}

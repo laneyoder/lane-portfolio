@@ -1,0 +1,27 @@
+{% include header.html %}
+
+<div class="main-content">
+
+  {{content}}
+
+  <ul class="graphic-design-work work">
+    {% for work in site.graphic-design %}
+    <li><a href="{{work.url}}"><img src="{{work.image}}" class="thumbnail"></a></li>
+    {% endfor %}
+  </ul>
+
+  <ul class="web-design-work work">
+    {% for work in site.web-design %}
+    <li><a href="{{work.url}}"><img src="{{work.image}}"></a></li>
+    {% endfor %}
+  </ul>
+
+  <ul class="photography-work work">
+    {% for work in site.photography %}
+    <li><a href="{{work.url}}"><img src="{{work.image}}"></a></li>
+    {% endfor %}
+  </ul>
+
+</div>
+
+{% include footer.html %}

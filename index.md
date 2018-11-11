@@ -1,6 +1,3 @@
 ---
-layout: default
+layout: home
 ---
-# The Daily Briefing
-
-biblical insight
