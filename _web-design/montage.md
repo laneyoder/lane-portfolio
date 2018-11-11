@@ -3,7 +3,7 @@ layout: default
 title: Montage
 image: images/montage-phones-thumb.png
 ---
-<div class="individual-page" markdown="1">
+<div class="individual-page montage" markdown="1">
 
 <h2>Montage</h2>
 
